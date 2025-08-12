@@ -158,5 +158,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 Maintainer: <Lingesh Kumar G>
 Email: <lingeshgy@gmail.com>
-Repository: https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>
+Repository: https://github.com/lingeshg18/Microfinance-loan-management-python/tree/main/project
 
